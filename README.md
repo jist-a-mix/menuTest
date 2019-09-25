@@ -1,1 +1,1 @@
-# MyMenu project for Java Bases course on OpenClassrooms - Step 2
+_# MyMenu project and test for Java Bases  Step 2_
